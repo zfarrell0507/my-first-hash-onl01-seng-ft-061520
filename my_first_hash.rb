@@ -1,6 +1,6 @@
 your_hash = {"year" => "2000", "month" => "5", "day" => "7"}
 def my_hash(your_hash)
-  my_hash = your_hash
+  
 end
 
 
