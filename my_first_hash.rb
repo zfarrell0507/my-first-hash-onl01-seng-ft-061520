@@ -1,7 +1,7 @@
 
 def my_hash
   your_hash = {"year" => "2000", "month" => "5", "day" => "7"}
-  your_hash
+  your_hash = my_hash
 end
 my_hash
 
