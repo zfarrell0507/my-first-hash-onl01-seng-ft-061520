@@ -1,8 +1,9 @@
 
-def my_hash(your_hash)
-  
+def my_hash
+  your_hash = {"year" => "2000", "month" => "5", "day" => "7"}
+  your_hash
 end
-
+my_hash
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
